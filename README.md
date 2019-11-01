@@ -1,3 +1,3 @@
-# RequirementsSpecification
+# 《福大同好》说明书
 
-团队作业第二次—需求规格说明书
+——by 热情组

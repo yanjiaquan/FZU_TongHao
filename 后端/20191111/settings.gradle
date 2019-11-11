@@ -1,0 +1,2 @@
+include ':app', ':json-lib-2.4-jdk15', ':ezmorph-1.0.3', ':commons-logging', ':commons-lang-2.5', ':commons-collections-3.1'
+rootProject.name='My Application'

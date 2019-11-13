@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- Style for "2" -->
+    <!-- Add this snippet to layer-list xml in drawable. -->
+    <item android:width="214dp" android:height="28dp">
+        <shape android:shape="rectangle">
+            <corners android:radius="14dp" />
+            <solid android:color="#afe780" />
+        </shape>
+    </item>
+</layer-list>

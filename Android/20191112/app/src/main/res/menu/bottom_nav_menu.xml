@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragment_shouye"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="首页" />
+    <item
+        android:id="@+id/fragment_dongtai"
+        android:icon="@drawable/ic_tag_faces_black_24dp"
+        android:title="动态" />
+    <item
+        android:id="@+id/fragment_renmai"
+        android:icon="@drawable/ic_group_black_24dp"
+        android:title="人脉" />
+    <item
+        android:id="@+id/fragment_xiaoxi"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="消息" />
+    <item
+        android:id="@+id/fragment_wo"
+        android:icon="@drawable/ic_perm_identity_black_24dp"
+        android:title="我" />
+</menu>

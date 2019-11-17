@@ -1,0 +1,2 @@
+include ':app', ':commons-beanutils-1.7.0', ':commons-collections-3.1', ':commons-lang-2.5', ':commons-logging', ':ezmorph-1.0.3', ':json-lib-2.4-jdk15'
+rootProject.name='福大同好'

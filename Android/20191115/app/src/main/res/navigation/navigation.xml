@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/fragment_shouye">
+    <fragment
+        android:id="@+id/fragment_shouye"
+        android:name="com.example.FZU.Fragment_shouye"
+        android:label="首页"
+        tools:layout="@layout/fragment_shouye_fragment" />
+    <fragment
+        android:id="@+id/fragment_dongtai"
+        android:name="com.example.FZU.Fragment_dongtai"
+        android:label="动态"
+        tools:layout="@layout/fragment_dongtai_fragment" />
+    <fragment
+        android:id="@+id/fragment_renmai"
+        android:name="com.example.FZU.Fragment_renmai"
+        android:label="人脉"
+        tools:layout="@layout/fragment_renmai_fragment" />
+    <fragment
+        android:id="@+id/fragment_xiaoxi"
+        android:name="com.example.FZU.Fragment_xiaoxi"
+        android:label="消息"
+        tools:layout="@layout/fragment_xiaoxi_fragment" />
+    <fragment
+        android:id="@+id/fragment_wo"
+        android:name="com.example.FZU.Fragment_wo"
+        android:label="我"
+        tools:layout="@layout/fragment_wo_fragment" />
+</navigation>
